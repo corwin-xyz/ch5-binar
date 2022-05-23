@@ -1,5 +1,6 @@
+{
+"user" : [
 
-[
   {
     "id": 1,
     "email": "corwin1@gmail.com",
@@ -9,11 +10,7 @@
     "id": 2,
     "email": "corwin2@gmail.com",
     "password": "rahasiakota"
-  },
-  {
-    "id": 3,
-    "email": "corwin3@gmail.com",
-    "password": "rahasiakampung"
   }
-  
+
 ]
+}

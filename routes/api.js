@@ -17,7 +17,7 @@ app.get("/v1/user/:id", (req, res, next) => {
 });
 
 // Post /user
-app.post("/v1/user:id", (req, res, next) => {
+app.post("/v1/user/:id", (req, res, next) => {
   const { email, password } = req.body;
   const id = users[users.length - 1].id + 1;
   const user = {
