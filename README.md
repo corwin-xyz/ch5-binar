@@ -10,3 +10,6 @@ dengan routing
 bagian backend
 3. Menggunakan Postman untuk mengecek API
 4. Serving data user static ke bentuk JSON
+
+
+Silahkan cek error page: http://localhost:3000/UntukTesError
